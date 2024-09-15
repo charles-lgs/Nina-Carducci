@@ -6616,7 +6616,7 @@ textarea.form-control-lg {
   opacity: 0.25;
 }
 
-.align-baseline {
+/* .align-baseline {
   vertical-align: baseline !important;
 }
 
@@ -6694,13 +6694,13 @@ textarea.form-control-lg {
 
 .d-inline-block {
   display: inline-block !important;
-}
+}*/
 
 .d-block {
   display: block !important;
 }
 
-.d-grid {
+/*.d-grid {
   display: grid !important;
 }
 
@@ -6931,13 +6931,13 @@ textarea.form-control-lg {
 
 .w-75 {
   width: 75% !important;
-}
+}*/
 
 .w-100 {
   width: 100% !important;
 }
 
-.w-auto {
+/*.w-auto {
   width: auto !important;
 }
 
@@ -7458,14 +7458,14 @@ textarea.form-control-lg {
 .py-2 {
   padding-top: 0.5rem !important;
   padding-bottom: 0.5rem !important;
-}
+} */
 
 .py-3 {
   padding-top: 1rem !important;
   padding-bottom: 1rem !important;
 }
 
-.py-4 {
+/* .py-4 {
   padding-top: 1.5rem !important;
   padding-bottom: 1.5rem !important;
 }
@@ -7687,14 +7687,14 @@ textarea.form-control-lg {
   white-space: nowrap !important;
 }
 
-/* rtl:begin:remove */
-.text-break {
+/****************** rtl:begin:remove ***********/
+/* .text-break {
   word-wrap: break-word !important;
   word-break: break-word !important;
-}
+} */
 
-/* rtl:end:remove */
-.text-primary {
+/*************** rtl:end:remove ***************/
+/* .text-primary {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
 }
@@ -11263,6 +11263,6 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-}
+} */
 
 /*# sourceMappingURL=bootstrap.css.map */
