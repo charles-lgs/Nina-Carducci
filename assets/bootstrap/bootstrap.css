@@ -6508,6 +6508,8 @@ textarea.form-control-lg {
 
 .w-100 {
   width: 100% !important;
+  max-width: 1920px;
+  max-height: 888px;
 }
 
 .my-4 {
